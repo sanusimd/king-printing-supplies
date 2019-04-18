@@ -1,0 +1,236 @@
+.owl-controls .owl-dot.active {
+	background: #C98B0E;
+}
+.btn-primary {
+	background-color: #C98B0E;
+	border-color: #C98B0E;
+}
+.btn-primary.btn-color:hover, .btn-primary.btn-color:focus {
+	background-color: #C98B0E;
+	border-color: #C98B0E;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+	background-color: #C98B0E;
+	border-color: #C98B0E;
+}
+.btn-primary.disabled, .btn-primary:disabled {
+	background-color: #C98B0E;
+	border-color: #C98B0E;
+}
+.read-more-btn {
+	color: #C98B0E;
+}
+.owl-controls .owl-dot:hover {
+	background: #C98B0E;
+}
+.section-title h3::after {
+	background: #C98B0E;
+}
+.section-title:hover h3::before {
+	background: #C98B0E;
+}
+.preloader div:before {
+    background-color: #C98B0E;
+}
+.light .classynav ul li.megamenu-item ul .active a {
+	color: #C98B0E;
+}
+#search .close:hover, #search .close:focus {
+	background: #C98B0E;
+}
+.header-top-social li a:hover {
+	color: #C98B0E;
+}
+.header-middle .middle-right .text p a:hover {
+    color: #C98B0E;
+}
+.main-header-area {
+	background-color: #C98B0E;
+}
+.main-header-two {
+    background: transparent;
+}
+.light .classynav ul li .dropdown, .light.classy-nav-container {
+	background-color: #C98B0E;
+}
+.main-header-area .classynav ul li .quote {
+	background: #e05c04;
+}
+.main-header-two .classy-menu {
+	background: #C98B0E;
+}
+.main-header-two.is-sticky {
+	background: #C98B0E;
+}
+@media only screen and (max-width: 991px) {
+	.classynav ul li.cn-dropdown-item ul .active a {
+		background: #C98B0E;
+	}
+}
+.main-banner-text .read-more {
+	border-bottom: 4px solid #C98B0E;
+}
+.main-banner-text .read-more:hover {
+	border-color: #C98B0E;
+}
+.welcome-text span {
+	color: #C98B0E;
+}
+.services-box::before {
+	background: #C98B0E;
+}
+.servicesBox::before {
+	background: #C98B0E;
+}
+.single-services .content h3 i {
+	color: #C98B0E;
+}
+.services-list ul li a:hover {
+	background: #C98B0E;
+}
+.services-details-features ul li i {
+	color: #C98B0E;
+}
+.card-header a h5 {
+	background: #C98B0E;
+}
+.client-img::before {
+	background: #C98B0E;
+}
+.case-studies-content h3 a:hover {
+	color: #C98B0E;
+}
+.brief-case-box {
+	border-left: 5px solid #C98B0E;
+}
+.case-details-box .card-body ul li::before {
+	background: #C98B0E;
+}
+.query-and-funFacts {
+    background: #C98B0E;
+}
+.post-content ul li i {
+    color: #C98B0E;
+}
+.post-content ul li a {
+	color: #C98B0E;
+}
+.post-content h3 a:hover {
+    color: #C98B0E;
+}
+.see-all-post a {
+	color: #C98B0E;
+}
+.blog-details .title-text-box ul a i {
+	color: #C98B0E;
+}
+.blog-details-content .list-style li i {
+	color: #C98B0E;
+}
+.blog-details-content .social-share li a:hover {
+	background: #C98B0E;
+}
+.page-title ul li a:hover {
+	color: #C98B0E;
+}
+.what-we-do-img::before, .what-we-do-img::after {
+	border-left: 7px solid #C98B0E;
+	border-bottom: 7px solid #C98B0E;
+}
+.what-we-do-img::after {
+	border-top: 7px solid #C98B0E;
+	border-right: 7px solid #C98B0E;
+}
+.pricing-table-header {
+	background: #C98B0E;
+}
+.pricing-table-header::before, .pricing-table-header::after {
+	background: #C98B0E;
+}
+.our-team .social ul li a:hover {
+	color: #C98B0E;
+}
+.our-team .social {
+	background: rgba(255,102,0,.77);
+}
+.team-details-area .social li a:hover {
+	background: #C98B0E;
+}
+.team-details .blockquote {
+	border-left: 5px solid #C98B0E;
+}
+.team-details .blockquote-footer {
+	color: #C98B0E;
+}
+.team-contact-info .box i {
+	color: #C98B0E;
+}
+.shorting-menu .filter.active {
+	background: #C98B0E;
+}
+.shorting-menu .filter:hover {
+	background: #C98B0E;
+}
+.single-portfolio .link-view a {
+	background: #C98B0E;
+}
+.single-portfolio .link-view a:hover {
+	color: #C98B0E;
+}
+.portfolio-content h3 i {
+    color: #C98B0E;
+}
+.portfolio-details-content ul li::before {
+	background: #C98B0E;
+}
+.contact-info .info-box .icon {
+	color: #C98B0E;
+	border: 1px solid #C98B0E;
+}
+.contact-info .info-box:hover .icon {
+    background: #C98B0E;
+}
+.get-in-touch .text span {
+	color: #C98B0E;
+}
+.get-in-touch .stay-connected li a:hover {
+	color: #C98B0E;
+}
+.page-item.active .page-link {
+	background-color: #C98B0E;
+	border-color: #C98B0E;
+}
+.page-link:hover, .page-link:focus {
+	background-color: #C98B0E;
+	border-color: #C98B0E;
+}
+.side-bar .widget .title::before {
+	background: #C98B0E;
+}
+.sidebar-testimonials .owl-theme .owl-nav [class*="owl-"] {
+	color: #C98B0E;
+}
+.side-bar .single-post .content ul li a {
+	color: #C98B0E;
+}
+.side-bar .popular-tags ul li a:hover {
+	background: #C98B0E;
+}
+.faq-contact::before {
+	background: #C98B0E;
+}
+.footer-area .contact-info ul li:last-child {
+	background: #C98B0E;
+}
+.footer-area .contact-info .text p a {
+	color: #C98B0E;
+}
+.newsletter h3 {
+	color: #C98B0E;
+}
+.copyright-area ul li a:hover {
+	color: #C98B0E;
+}
+.go-top:hover {
+    background: #C98B0E;
+}
